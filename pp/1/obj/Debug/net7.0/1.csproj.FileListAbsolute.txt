@@ -1,0 +1,15 @@
+D:\Files\Student\Code\labs_4S\pp\1\bin\Debug\net7.0\1.exe
+D:\Files\Student\Code\labs_4S\pp\1\bin\Debug\net7.0\1.deps.json
+D:\Files\Student\Code\labs_4S\pp\1\bin\Debug\net7.0\1.runtimeconfig.json
+D:\Files\Student\Code\labs_4S\pp\1\bin\Debug\net7.0\1.dll
+D:\Files\Student\Code\labs_4S\pp\1\bin\Debug\net7.0\1.pdb
+D:\Files\Student\Code\labs_4S\pp\1\obj\Debug\net7.0\1.csproj.AssemblyReference.cache
+D:\Files\Student\Code\labs_4S\pp\1\obj\Debug\net7.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Student\Code\labs_4S\pp\1\obj\Debug\net7.0\1.AssemblyInfoInputs.cache
+D:\Files\Student\Code\labs_4S\pp\1\obj\Debug\net7.0\1.AssemblyInfo.cs
+D:\Files\Student\Code\labs_4S\pp\1\obj\Debug\net7.0\1.csproj.CoreCompileInputs.cache
+D:\Files\Student\Code\labs_4S\pp\1\obj\Debug\net7.0\1.dll
+D:\Files\Student\Code\labs_4S\pp\1\obj\Debug\net7.0\refint\1.dll
+D:\Files\Student\Code\labs_4S\pp\1\obj\Debug\net7.0\1.pdb
+D:\Files\Student\Code\labs_4S\pp\1\obj\Debug\net7.0\1.genruntimeconfig.cache
+D:\Files\Student\Code\labs_4S\pp\1\obj\Debug\net7.0\ref\1.dll

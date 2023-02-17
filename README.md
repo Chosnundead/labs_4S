@@ -6,13 +6,15 @@ labs from my 4th semi-year of education
 
 | title | statistic |
 | ----: | :-------- |
-|   pvs | 100\100   |
-| tvims | 3\3       |
-|   tfp | 100\100   |
-|   oib | 9\9       |
-|    db | 15\15     |
-|   oop | 15\15     |
+|   oop | 1\?       |
+|   sms | 1\?       |
+|    bd | 0\?       |
+|   dpi | 0\?       |
+|    mp | 0\?       |
+|    pp | 0\?       |
+|   psp | 0\?       |
 
 ### to edit:
 
-- [ ] Настроить README.md
+- [ ] Заполнить статистику(написать все возможные лабы и их кол-во)
+- [x] Настроить README.md
